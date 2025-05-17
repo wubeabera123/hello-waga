@@ -8,25 +8,25 @@ const categories = [
   {
     id: "electronics",
     name: "Electronics",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/products/category/electronics.jpg",
     count: 42,
   },
   {
     id: "fashion",
     name: "Fashion",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/products/category/fashion.jpg",
     count: 56,
   },
   {
     id: "home",
     name: "Home & Living",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/products/category/home.webp",
     count: 38,
   },
   {
     id: "sports",
     name: "Sports & Outdoors",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/products/category/sport.jpg",
     count: 24,
   },
 ]
