@@ -97,7 +97,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center">
                 <Mail size={20} className="mr-2 text-sky-400 flex-shrink-0" />
-                <span className="text-gray-300">support@shopwave.com</span>
+                <span className="text-gray-300">support@hellowaga.com</span>
               </li>
             </ul>
           </div>
