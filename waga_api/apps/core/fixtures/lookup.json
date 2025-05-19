@@ -1,0 +1,182 @@
+[
+    {
+        "model": "core.datalookup",
+        "pk": "8f4b8ec0-f2b7-4864-9000-bf3962361360",
+        "fields": {
+            "created_at": "2025-03-05T14:39:29.242Z",
+            "updated_at": "2025-03-05T14:39:29.242Z",
+            "deleted_at": null,
+            "type": "attribute_field_type",
+            "name": "String",
+            "value": "str",
+            "description": "A string data type for VARCHAR fields",
+            "category": "PRICE",
+            "note": "",
+            "index": 0,
+            "is_default": false,
+            "is_active": false,
+            "remark": "",
+            "data_type": ""
+        }
+    },
+    {
+        "model": "core.datalookup",
+        "pk": "2aae5924-9876-47db-8339-126ac29bc2a0",
+        "fields": {
+            "created_at": "2025-03-05T14:40:19.995Z",
+            "updated_at": "2025-03-05T14:40:19.995Z",
+            "deleted_at": null,
+            "type": "attribute_field_type",
+            "name": "Number",
+            "value": "int",
+            "description": "A datatype  for INTEGER types",
+            "category": "PRICE",
+            "note": "",
+            "index": 1,
+            "is_default": false,
+            "is_active": false,
+            "remark": "",
+            "data_type": ""
+        }
+    },
+    {
+        "model": "core.datalookup",
+        "pk": "e7ec756a-f55d-4d20-a290-fbadcc68dd74",
+        "fields": {
+            "created_at": "2025-03-05T14:41:10.084Z",
+            "updated_at": "2025-03-05T14:41:10.084Z",
+            "deleted_at": null,
+            "type": "attribute_field_type",
+            "name": "Float",
+            "value": "float",
+            "description": "A float data type for FLOAT types",
+            "category": "PRICE",
+            "note": "",
+            "index": 2,
+            "is_default": false,
+            "is_active": false,
+            "remark": "",
+            "data_type": ""
+        }
+    },
+    {
+        "model": "core.datalookup",
+        "pk": "e1bf8be5-318d-407b-bf10-0e337e76f03b",
+        "fields": {
+            "created_at": "2025-03-05T14:41:52.193Z",
+            "updated_at": "2025-03-05T14:41:52.193Z",
+            "deleted_at": null,
+            "type": "attribute_field_type",
+            "name": "Decimal",
+            "value": "decimal",
+            "description": "A decimal data type for DECIMAL types",
+            "category": "PRICE",
+            "note": "",
+            "index": 3,
+            "is_default": false,
+            "is_active": false,
+            "remark": "",
+            "data_type": ""
+        }
+    },
+    {
+        "model": "core.datalookup",
+        "pk": "46f05b45-664e-45bb-ae1a-9bbf2e350df4",
+        "fields": {
+            "created_at": "2025-03-05T14:43:03.538Z",
+            "updated_at": "2025-03-05T14:43:03.538Z",
+            "deleted_at": null,
+            "type": "attribute_form_type",
+            "name": "Text",
+            "value": "text",
+            "description": "A form field type for text fields",
+            "category": "PRICE",
+            "note": "",
+            "index": 0,
+            "is_default": false,
+            "is_active": false,
+            "remark": "",
+            "data_type": ""
+        }
+    },
+    {
+        "model": "core.datalookup",
+        "pk": "df8ef9fa-25de-4015-a81e-e30dd1d29cd0",
+        "fields": {
+            "created_at": "2025-03-05T14:43:49.916Z",
+            "updated_at": "2025-03-05T14:43:49.916Z",
+            "deleted_at": null,
+            "type": "attribute_form_type",
+            "name": "Number",
+            "value": "number",
+            "description": "A number field type for number input form fields",
+            "category": "PRICE",
+            "note": "",
+            "index": 1,
+            "is_default": false,
+            "is_active": false,
+            "remark": "",
+            "data_type": ""
+        }
+    },
+    {
+        "model": "core.datalookup",
+        "pk": "a838a319-dcdf-4a4b-be68-f295ac09c03d",
+        "fields": {
+            "created_at": "2025-03-05T14:45:07.289Z",
+            "updated_at": "2025-03-05T14:45:07.289Z",
+            "deleted_at": null,
+            "type": "attribute_form_type",
+            "name": "Dropdown",
+            "value": "select",
+            "description": "A select type for dropdown form fields.",
+            "category": "PRICE",
+            "note": "",
+            "index": 2,
+            "is_default": false,
+            "is_active": false,
+            "remark": "",
+            "data_type": ""
+        }
+    },
+    {
+        "model": "core.datalookup",
+        "pk": "bf27882f-9440-4a10-bd05-4c6eb24157ef",
+        "fields": {
+            "created_at": "2025-03-05T14:45:51.977Z",
+            "updated_at": "2025-03-05T14:45:51.977Z",
+            "deleted_at": null,
+            "type": "attribute_form_type",
+            "name": "Radio Button",
+            "value": "radio",
+            "description": "A radio type for radio button form fields.",
+            "category": "PRICE",
+            "note": "",
+            "index": 3,
+            "is_default": false,
+            "is_active": false,
+            "remark": "",
+            "data_type": ""
+        }
+    },
+    {
+        "model": "core.datalookup",
+        "pk": "f9b7aecc-e4cf-4795-a5f5-0718b715936b",
+        "fields": {
+            "created_at": "2025-03-05T14:46:37.553Z",
+            "updated_at": "2025-03-05T14:46:37.553Z",
+            "deleted_at": null,
+            "type": "attribute_form_type",
+            "name": "Checkbox",
+            "value": "checkbox",
+            "description": "A checkbox type for checkbox form fields.",
+            "category": "PRICE",
+            "note": "",
+            "index": 4,
+            "is_default": false,
+            "is_active": false,
+            "remark": "",
+            "data_type": ""
+        }
+    }
+]

@@ -1,0 +1,160 @@
+{
+    "UserAccessPolicy": {
+        "statements": [
+            {
+                "action": [
+                    "*"
+                ],
+                "principal": [
+                    "role:admin"
+                ],
+                "effect": "allow"
+            }
+        ]
+    },
+    "CompanyProfileAccessPolicy": {
+        "statements": [
+            {
+                "action": [
+                    "*"
+                ],
+                "principal": [
+                    "role:admin"
+                ],
+                "effect": "allow"
+            },
+            {
+                "action": [
+                    "create",
+                    "retrieve",
+                    "update"
+                ],
+                "principal": [
+                    "role:vendor"
+                ],
+                "effect": "allow"
+            }
+        ]
+    },
+    "DataLookupAccessPolicy": {
+        "statements": [
+            {
+                "action": [
+                    "*"
+                ],
+                "principal": [
+                    "role:admin"
+                ],
+                "effect": "allow"
+            }
+        ]
+    },
+    "SystemSettingAccessPolicy": {
+        "statements": [
+            {
+                "action": [
+                    "*"
+                ],
+                "principal": [
+                    "role:admin"
+                ],
+                "effect": "allow"
+            }
+        ]
+    },
+    "CategoryAccessPolicy": {
+        "statements": [
+            {
+                "action": [
+                    "*"
+                ],
+                "principal": [
+                    "role:admin"
+                ],
+                "effect": "allow"
+            },
+            {
+                "action": [
+                    "list",
+                    "retrieve"
+                ],
+                "principal": [
+                    "role:vendor"
+                ],
+                "effect": "allow"
+            }
+        ]
+    },
+    "CategoryAttributeAccessPolicy": {
+        "statements": [
+            {
+                "action": [
+                    "*"
+                ],
+                "principal": [
+                    "role:admin"
+                ],
+                "effect": "allow"
+            },
+            {
+                "action": [
+                    "list",
+                    "retrieve"
+                ],
+                "principal": [
+                    "role:vendor"
+                ],
+                "effect": "allow"
+            }
+        ]
+    },
+    "ProductAccessPolicy": {
+        "statements": [
+            {
+                "action": [
+                    "*"
+                ],
+                "principal": [
+                    "role:admin"
+                ],
+                "effect": "allow"
+            },
+            {
+                "action": [
+                    "list",
+                    "retrieve",
+                    "create"
+                ],
+                "principal": [
+                    "role:vendor"
+                ],
+                "effect": "allow"
+            }
+        ]
+    },
+    "ProductAttributeAccessPolicy": {
+        "statements": [
+            {
+                "action": [
+                    "*"
+                ],
+                "principal": [
+                    "role:admin"
+                ],
+                "effect": "allow"
+            },
+            {
+                "action": [
+                    "list",
+                    "retrieve",
+                    "create",
+                    "destroy"
+                ],
+                "principal": [
+                    "role:vendor"
+                ],
+                "effect": "allow"
+            }
+        ]
+    }
+}

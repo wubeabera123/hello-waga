@@ -1,0 +1,128 @@
+[
+    {
+        "model": "price.productcategoryattribute",
+        "pk": "2ee32061-0f11-4365-9c52-a25313b58531",
+        "fields": {
+            "created_at": "2025-03-07T18:50:07.866Z",
+            "updated_at": "2025-03-07T18:50:07.866Z",
+            "deleted_at": null,
+            "product_category": "02557a01-c39f-48c5-9018-f4003a369e5c",
+            "field_name": "camera_specs",
+            "field_type": "8f4b8ec0-f2b7-4864-9000-bf3962361360",
+            "form_type": "a838a319-dcdf-4a4b-be68-f295ac09c03d",
+            "required": true
+        }
+    },
+    {
+        "model": "price.productcategoryattribute",
+        "pk": "45dd9b26-3637-46e7-bdff-ff98b6f95700",
+        "fields": {
+            "created_at": "2025-03-07T18:49:10.390Z",
+            "updated_at": "2025-03-07T18:49:10.390Z",
+            "deleted_at": null,
+            "product_category": "02557a01-c39f-48c5-9018-f4003a369e5c",
+            "field_name": "processor",
+            "field_type": "8f4b8ec0-f2b7-4864-9000-bf3962361360",
+            "form_type": "46f05b45-664e-45bb-ae1a-9bbf2e350df4",
+            "required": true
+        }
+    },
+    {
+        "model": "price.productcategoryattribute",
+        "pk": "598daa68-5cd8-468a-b185-1f21952e1daa",
+        "fields": {
+            "created_at": "2025-03-07T18:40:28.441Z",
+            "updated_at": "2025-03-07T18:40:28.441Z",
+            "deleted_at": null,
+            "product_category": "02557a01-c39f-48c5-9018-f4003a369e5c",
+            "field_name": "operating _system",
+            "field_type": "8f4b8ec0-f2b7-4864-9000-bf3962361360",
+            "form_type": "a838a319-dcdf-4a4b-be68-f295ac09c03d",
+            "required": true
+        }
+    },
+    {
+        "model": "price.productcategoryattribute",
+        "pk": "5ef50e1e-a1fd-4fbf-a276-50a6e631c947",
+        "fields": {
+            "created_at": "2025-03-07T18:43:58.006Z",
+            "updated_at": "2025-03-07T18:43:58.006Z",
+            "deleted_at": null,
+            "product_category": "02557a01-c39f-48c5-9018-f4003a369e5c",
+            "field_name": "storage",
+            "field_type": "8f4b8ec0-f2b7-4864-9000-bf3962361360",
+            "form_type": "a838a319-dcdf-4a4b-be68-f295ac09c03d",
+            "required": true
+        }
+    },
+    {
+        "model": "price.productcategoryattribute",
+        "pk": "99be2d44-7d36-4f1c-a0f9-fc47c9518a57",
+        "fields": {
+            "created_at": "2025-03-07T18:49:39.204Z",
+            "updated_at": "2025-03-07T18:49:39.204Z",
+            "deleted_at": null,
+            "product_category": "02557a01-c39f-48c5-9018-f4003a369e5c",
+            "field_name": "connectivity",
+            "field_type": "8f4b8ec0-f2b7-4864-9000-bf3962361360",
+            "form_type": "a838a319-dcdf-4a4b-be68-f295ac09c03d",
+            "required": true
+        }
+    },
+    {
+        "model": "price.productcategoryattribute",
+        "pk": "9aabdeb1-534e-46b1-b9ca-a162e6ce8953",
+        "fields": {
+            "created_at": "2025-03-07T18:42:39.963Z",
+            "updated_at": "2025-03-07T18:42:39.963Z",
+            "deleted_at": null,
+            "product_category": "02557a01-c39f-48c5-9018-f4003a369e5c",
+            "field_name": "screen_size",
+            "field_type": "2aae5924-9876-47db-8339-126ac29bc2a0",
+            "form_type": "a838a319-dcdf-4a4b-be68-f295ac09c03d",
+            "required": true
+        }
+    },
+    {
+        "model": "price.productcategoryattribute",
+        "pk": "b294b607-3729-4180-8ea4-edcb02de56d2",
+        "fields": {
+            "created_at": "2025-03-07T18:43:26.289Z",
+            "updated_at": "2025-03-07T18:43:26.289Z",
+            "deleted_at": null,
+            "product_category": "02557a01-c39f-48c5-9018-f4003a369e5c",
+            "field_name": "ram",
+            "field_type": "8f4b8ec0-f2b7-4864-9000-bf3962361360",
+            "form_type": "a838a319-dcdf-4a4b-be68-f295ac09c03d",
+            "required": true
+        }
+    },
+    {
+        "model": "price.productcategoryattribute",
+        "pk": "caecf498-57b2-4005-a375-72d6fbbc001a",
+        "fields": {
+            "created_at": "2025-03-07T18:50:42.098Z",
+            "updated_at": "2025-03-07T18:50:42.098Z",
+            "deleted_at": null,
+            "product_category": "02557a01-c39f-48c5-9018-f4003a369e5c",
+            "field_name": "accessories_included",
+            "field_type": "8f4b8ec0-f2b7-4864-9000-bf3962361360",
+            "form_type": "f9b7aecc-e4cf-4795-a5f5-0718b715936b",
+            "required": true
+        }
+    },
+    {
+        "model": "price.productcategoryattribute",
+        "pk": "f0a1cc4c-18d0-42b7-999f-ba020ef653ca",
+        "fields": {
+            "created_at": "2025-03-07T18:46:41.678Z",
+            "updated_at": "2025-03-07T18:46:41.678Z",
+            "deleted_at": null,
+            "product_category": "02557a01-c39f-48c5-9018-f4003a369e5c",
+            "field_name": "battery_capacity",
+            "field_type": "2aae5924-9876-47db-8339-126ac29bc2a0",
+            "form_type": "df8ef9fa-25de-4015-a81e-e30dd1d29cd0",
+            "required": true
+        }
+    }
+]
